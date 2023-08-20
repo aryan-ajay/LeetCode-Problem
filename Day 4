@@ -11,13 +11,6 @@ Explanation: If you give all extraCandies to:
 - Kid 5, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
 
 
-
-
-
-
-
-
-
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int max = Integer.MIN_VALUE;
