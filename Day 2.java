@@ -1,9 +1,8 @@
-Question - Greatest Common Divisor of Strings
+// Question - Greatest Common Divisor of Strings
 
-Example 1:
-
-Input: str1 = "ABCABC", str2 = "ABC"
-Output: "ABC"
+//Example 1:
+//Input: str1 = "ABCABC", str2 = "ABC"
+//Output: "ABC"
 
 
 
